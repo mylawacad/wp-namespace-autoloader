@@ -1,6 +1,6 @@
 {
 	"name": "mylawacad/wp-namespace-autoloader",
-	"version": "1.0.0",
+	"version": "1.0.0-stable",
 	"type": "library",
 	"description": "A PHP autoloader class that follows the WordPress coding standards for class names and class filenames",
 	"keywords": [
